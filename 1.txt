@@ -1,0 +1,13 @@
+WARMUP:
+
+1. Create a folder called CookieWarmupTwo, connect to Git/GitHub
+2. In the folder, create the files index.html, display.html, app.js & display.js.
+  2.1. Link them together and ensure both pages have the Cookies script tag
+3. Configure the debugger
+4. Using JS, insert 3 images into the index.html
+5. Using JS, add an event listener to each image inserted
+  5.1 Note, this means you will need to select those images from the page after you insert all 3
+6. When an image is clicked, store its image src into a cookie called `image_url`.
+  6.1. Note this is just a string! Not JSON data
+7. On the display page, show the image that was clicked.
+8. Add a button that allows the user to clear the cookie and get sent back to the home page.        
